@@ -1,4 +1,4 @@
-# Assignment 1: Employee Attrition Prediction using Machine Learning
+# Assignment 2: Employee Attrition Prediction using Machine Learning
 
 ## Overview
 
