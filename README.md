@@ -191,8 +191,4 @@ Through this project, I gained practical experience in:
 
 ## Author
 
-**Amit Kumar Singh**
-
-Aspiring AI / Machine Learning Engineer
-
-GitHub: https://github.com/Amit905460
+**Amit Kumar Singh Kurmi**
