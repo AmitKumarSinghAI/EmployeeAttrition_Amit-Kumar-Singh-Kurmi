@@ -180,15 +180,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-## Future Improvements
-
-* Hyperparameter tuning using GridSearchCV or RandomizedSearchCV
-* Cross-validation for improved model reliability
-* Experimenting with advanced boosting algorithms such as XGBoost or LightGBM
-* Building a web application using Streamlit or Flask for real-time attrition prediction
-
----
-
 ## Author
 
 **Amit Kumar Singh Kurmi**
